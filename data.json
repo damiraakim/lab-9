@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Almaty",
+      "country": "Kazakhstan"
+    },
+    {
+      "name": "Nur-Sultan",
+      "country": "Kazakhstan"
+    },
+    {
+      "name": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "name":"Paris",
+      "country":"France"
+    },
+    {"name":"Bishkek",
+    "country":"Kyrgyzstan"
+  }
+  ]
+  

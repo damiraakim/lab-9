@@ -1,0 +1,55 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+header{
+    background-color: rgb(79, 144, 170);
+    height: 50px;
+    margin-top: 3%;
+    text-align: center;
+    color: rgb(23, 23, 42);
+    font-size: 25px;
+}
+main{
+    background-image: url("https://aif-s3.aif.ru/images/010/412/d549ebf0ac878a5ec6f5b118466e03c7.jpg");
+    margin-left: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 750px;
+    height: 700px;
+    background-color: rgb(191, 225, 238);
+    display: flex;
+}
+.container{
+
+    margin-left: 40%;
+    margin-top: 5%;
+    width: 100px;
+}
+#cityInput{
+    margin-left: 50%;
+    margin-top: 100%;
+    border: none;
+    background-color:  rgb(229, 229, 213);
+    padding:20px 30px;
+    border-radius: 10%;
+    
+}
+button{
+    background-color: rgb(229, 229, 213);
+    margin-top: 30%;
+    margin-left: 60%;
+    padding: 0px 30px;
+    border: none;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/4804/4804221.png");
+
+    border-radius: 10%;
+}
+#weather-output{
+    width: 200px;
+    margin-left: 60%;
+    margin-top: 20%;
+    color: rgb(14, 14, 61);
+    background-color: rgb(229, 229, 213);
+}
